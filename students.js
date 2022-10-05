@@ -4,7 +4,7 @@ function showStudents(studentList) {
     
     for(let i = 0; i < studentList.length; i++) {
         const student = studentList[i]
-        console.log(student.firstName)
+        console.log(student.firstName) // hi
     }
  
          
