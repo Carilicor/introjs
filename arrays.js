@@ -65,7 +65,8 @@ let fruits = [
     "mango",    // 3
     "guanabana", //4
 ]
-console.log(fruits)
+console.
+log(fruits)
 // fruits.push("Grapes")
 // console.log(fruits)
 // const oldFruit = fruits.pop() //removes fruit from the end (right)
@@ -84,5 +85,8 @@ console.log(fruits)
 // console.log(fruits)
 
 // console.log(fruits.indexOf("mango"))
+
+
+
 
 console.log(` my fruits are: ${fruits.join(", ")}`)
